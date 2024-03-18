@@ -1,0 +1,9 @@
+
+body
+    [class*="col"]{
+      padding: 1rem;
+      background-color: rgba(142, 113, 196, 0.959);
+      border: 2px solid #354b74;
+      color: black;
+      text-align: left;
+    }
